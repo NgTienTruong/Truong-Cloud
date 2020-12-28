@@ -1,0 +1,20 @@
+{
+  "name": "toystore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "4": "0.0.0",
+    "bootstrap": "^4.5.3",
+    "consolidate": "^0.16.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "mongodb": "^3.6.3"
+  }
+}
